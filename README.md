@@ -258,14 +258,10 @@ Full reproduction + explanation: [`base_paper_implementation/`](base_paper_imple
 
 ## Team
 
-**Batch 01 — Amrita Vishwa Vidyapeetham, Amaravati Campus**
-*Submitted to: Dr. K.S.L Prasanna, Department of Computer Science and Engineering*
-
-| Name | Reg. No. | Contribution |
-|---|---|---|
-| Kaarthikeya Lakshman Ganji | AV.SC.U4CSE23118 | System Architecture, Dataset Pipeline, GNN Ablation, Results |
-| Guditi Sai Kaushik | AV.SC.U4CSE23109 | Introduction, Problem Statement, Literature Survey, Novelty |
-| P.V.S Pranav | AV.SC.U4CSE23136 | Base Paper Implementation, Limitations, Conclusion |
+| Name | 
+| Kaarthikeya Lakshman Ganji 
+| Guditi Sai Kaushik 
+| P.V.S Pranav 
 
 ---
 

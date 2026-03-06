@@ -297,7 +297,7 @@ https://doi.org/10.3390/make7030079
 **Our Extension:**
 ```
 RustCPG-Detect: CPG-Enhanced Vulnerability Detection in Rust
-Kaarthikeya Lakshman Ganji, Guditi Sai Kaushik, P.V.S Pranav
+Kaarthikeya Lakshman Ganji, Guditi Sai Kaushik, P.V.S Sai Pranav
 Amrita Vishwa Vidyapeetham, Amaravati Campus, 2025
 GitHub  : https://github.com/KK-College/RustCPG-Detect
 Dataset : https://www.kaggle.com/datasets/kaarthikeyaganji/cid-i2
